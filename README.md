@@ -115,10 +115,10 @@ streamlit run app.py
 
 ```
 ├── Model.ipynb                    # Model training
-├── app.py                         # Streamlit app
+├── stream_app.py                         # Streamlit app
 ├── Final_Data_Article_Annotation.csv  # Dataset
-├── model2/                        # Trained model files
-├── tokenizer/                     # Tokenizer files
+├── model12/                        # Trained model files
+├── Data Visualizaton.ipnyb          # Dataset Analysis
 └── README.md                      # Documentation
 ```
 
