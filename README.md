@@ -136,5 +136,5 @@ streamlit run app.py
 
 Feel free to connect for feedback, suggestions, or collaboration!
 
-📧 [anisha.email@example.com](mailto:anisha.email@example.com)
-🔗 [LinkedIn Profile](https://www.linkedin.com/in/anisha-kumari)
+📧 [anishak2207@gmail.com](mailto:anishak2207@gmail.com)
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/anisha-kumari-79077424a/)
